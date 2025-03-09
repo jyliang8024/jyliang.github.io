@@ -1,13 +1,6 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
 title                    : "Liang Jingying"
-description              : "Hi👋 This is Jing!"
 repository               : "LiangJingying/liangjingying.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +16,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Liang Jingying"
   avatar           : "images/portrait.png"
-  bio              : "AI Product Ops in Lazada, Alibaba International Digital Commerce Group"
+  bio              : "Master Student in Industrial Logistics Systems, The Hong Kong Polytechnic University"
   location         : "Hangzhou, CN"
   employer         :
   pubmed           : 
