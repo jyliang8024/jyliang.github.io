@@ -19,15 +19,16 @@ redirect_from:
 # Biography
 I am currently a Senior Associate of AI Product Operations at Alibaba International Digital Commerce Group, working on optimizing AI shopping agents for cross-border e-commerce. Before that, I was a researcher at [Laboratory for Artificial Intelligence in Design](https://www.aidlab.hk/en/about) under the supervision of [Dr. C.K.M. Lee](https://scholar.google.com.sg/citations?user=QGN6-ToAAAAJ&hl=en).
 
-My research interests lie in **Multimedia Content Generation**, particularly in Generative Design, Cross-Modal Understanding & Generation, and Controllable Video Synthesis.
+My research interests lie in **Multimedia Content Generation**, particularly in Generative Design, Cross-Modal Understanding and Generation, as well as Controllable Video Synthesis.
 
 # Education
 - M.Sc. in Industrial Logistics Systems, The Hong Kong Polytechnic University, 2022-2023
 - B.Eng. in Transportation (Excellent Engineer Class), Chongqing Jiaotong University, 2018-2022
 
-# Publications 
+# Publications
+(# equal contribution, * corresponding author/project lead)
 - **Generating TRIZ-Inspired Guidelines for Eco-Design using Generative Artificial Intelligence**  
-  Lee, C.K.M., **Liang, J.Y.**, Yung, K.L., Keung, K.L.  
+  Lee, C.K.M.*, **Liang, J.Y.**, Yung, K.L., Keung, K.L.  
   Advanced Engineering Informatics, 2024. [\[Paper\]](https://www.sciencedirect.com/science/article/abs/pii/S1474034624004944) [\[Code\]](https://github.com/jyliang8024/EcoInnovate-Assistant)
 
 - **Achieving eco-innovative smart glass design with the integration of opinion mining, QFD and TRIZ**  
