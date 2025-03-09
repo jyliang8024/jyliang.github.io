@@ -1,5 +1,3 @@
-Liang Jingying - 梁婧莹
-
 # Biography
 I am currently a Senior Associate of AI Product Operations at Alibaba International Digital Commerce Group, working on optimizing AI shopping agents for cross-border e-commerce. Before that, I was a researcher at [Laboratory for Artificial Intelligence in Design](https://www.aidlab.hk/en/about) under the supervision of [Dr. C.K.M. Lee](https://scholar.google.com.sg/citations?user=QGN6-ToAAAAJ&hl=en).
 
