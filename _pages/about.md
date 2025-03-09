@@ -1,3 +1,22 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
 # Biography
 I am currently a Senior Associate of AI Product Operations at Alibaba International Digital Commerce Group, working on optimizing AI shopping agents for cross-border e-commerce. Before that, I was a researcher at [Laboratory for Artificial Intelligence in Design](https://www.aidlab.hk/en/about) under the supervision of [Dr. C.K.M. Lee](https://scholar.google.com.sg/citations?user=QGN6-ToAAAAJ&hl=en).
 
