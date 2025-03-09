@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/b5f73422-c296-42db-b835-29a8269327fb)---
 permalink: /
 title: ""
 excerpt: ""
@@ -18,7 +17,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Biography
-I am currently a Senior Associate of AI Product Operations at Alibaba International Digital Commerce Group, working on optimizing AI shopping agents for cross-border e-commerce. Before that, I was a researcher at Laboratory for Artificial Intelligence in Design under the supervision of [Dr. C.K.M. Lee] (https://scholar.google.com.sg/citations?user=QGN6-ToAAAAJ&hl=en).
+I am currently a Senior Associate of AI Product Operations at Alibaba International Digital Commerce Group, working on optimizing AI shopping agents for cross-border e-commerce. Before that, I was a researcher at Laboratory for Artificial Intelligence in Design under the supervision of [Dr. C.K.M. Lee](https://scholar.google.com.sg/citations?user=QGN6-ToAAAAJ&hl=en).
 
 My research interests lie in **Multimedia Content Generation**, particularly in **Generative Design**, **Cross-Modal Understanding & Generation**, and **Controllable Video Synthesis**.
 
@@ -27,20 +26,16 @@ My research interests lie in **Multimedia Content Generation**, particularly in 
 - B.Eng. in Transportation (Excellent Engineer Class), Chongqing Jiaotong University, 2018-2022
 
 # Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-( <sup>*</sup>equal contribution <sup>*</sup>corresponding author / project lead )
+(<sup>*</sup>equal contribution <sup>*</sup>corresponding author / project lead)
 - Generating TRIZ-Inspired Guidelines for Eco-Design using Generative Artificial Intelligence
   Lee, C.K.M.<sup>*</sup>, **Liang, J.Y.**, Yung, K.L., Keung, K.L.
-  Advanced Engineering Informatics, 2024. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1474034624004944) [Code](https://github.com/jyliang8024/EcoInnovate-Assistant)
+  Advanced Engineering Informatics, 2024. \| [\[Paper\]](https://www.sciencedirect.com/science/article/abs/pii/S1474034624004944) \| [\[Code\]](https://github.com/jyliang8024/EcoInnovate-Assistant)
 - Achieving eco-innovative smart glass design with the integration of opinion mining, QFD and TRIZ
   Lee, C.K.M., Tsang, Y.P., Chong, W.W., Au, Y.S., **Liang, J.Y.**
-  Scientific Reports, 2024. [Paper](https://www.nature.com/articles/s41598-024-58867-1)
+  Scientific Reports, 2024. \| [\[Paper\]](https://www.nature.com/articles/s41598-024-58867-1)
 - Big Data Analytics for Marketing Strategy
   **Liang, J.Y.**, Jiao, Y.H., Chung, S.Y., Lee, C.K.M
-  DesForm, 2023. [Paper](https://research.polyu.edu.hk/en/publications/big-data-analytics-for-marketing-strategy)
+  DesForm, 2023.\| [\[Paper\]](https://research.polyu.edu.hk/en/publications/big-data-analytics-for-marketing-strategy)
 
 # Experiences
 - Senior Associate, AI Product Operations in Alibaba International Digital Commerce Group, 2024 - Present
@@ -48,10 +43,10 @@ My research interests lie in **Multimedia Content Generation**, particularly in 
 - Research Assistant (Part-time) in Cyber-Physical Systems Laboratory, The Hong Kong Polytechnic University, 2022 - 2023
 
 # Honors & Awards
-- *2021.10* Guangxi Alumni Youth Science and Technology Scholarship (Top 10%)
-- *2021.07* The 2<sup>nd</sup> Award, The 7<sup>th</sup> International “Internet +” College Innovation and Entrepreneurship Competition
-- *2021.05* The 2<sup>nd</sup> Award, The 5<sup>th</sup> Intelligent Transportation Innovation and Entrepreneurship Competition
+- *2021.10*, Guangxi Alumni Youth Science and Technology Scholarship (Top 10%)
+- *2021.07*, The 2<sup>nd</sup> Award, The 7<sup>th</sup> International “Internet +” College Innovation and Entrepreneurship Competition
+- *2021.05*, The 2<sup>nd</sup> Award, The 5<sup>th</sup> Intelligent Transportation Innovation and Entrepreneurship Competition
 
 # Patents
 - Designing Project of Oil Spill Collection Device, *CN215252726U*
-- An Energy-efficient Truck Platoon Formation Method (Pending)
+- An Energy-efficient Truck Platoon Formation Method (*Pending*)
