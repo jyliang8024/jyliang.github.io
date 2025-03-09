@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/b5f73422-c296-42db-b835-29a8269327fb)---
 permalink: /
 title: ""
 excerpt: ""
@@ -17,42 +17,41 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# Biography
+I am currently a Senior Associate of AI Product Operations at Alibaba International Digital Commerce Group, working on optimizing AI shopping agents for cross-border e-commerce. Before that, I was a researcher at Laboratory for Artificial Intelligence in Design under the supervision of [Dr. C.K.M. Lee] (https://scholar.google.com.sg/citations?user=QGN6-ToAAAAJ&hl=en).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests lie in **Multimedia Content Generation**, particularly in **Generative Design**, **Cross-Modal Understanding & Generation**, and **Controllable Video Synthesis**.
 
+# Education
+- M.Sc. in Industrial Logistics Systems, The Hong Kong Polytechnic University, 2022-2023
+- B.Eng. in Transportation (Excellent Engineer Class), Chongqing Jiaotong University, 2018-2022
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+( <sup>*</sup>equal contribution <sup>*</sup>corresponding author / project lead )
+- Generating TRIZ-Inspired Guidelines for Eco-Design using Generative Artificial Intelligence
+  Lee, C.K.M.<sup>*</sup>, **Liang, J.Y.**, Yung, K.L., Keung, K.L.
+  Advanced Engineering Informatics, 2024. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1474034624004944) [Code](https://github.com/jyliang8024/EcoInnovate-Assistant)
+- Achieving eco-innovative smart glass design with the integration of opinion mining, QFD and TRIZ
+  Lee, C.K.M., Tsang, Y.P., Chong, W.W., Au, Y.S., **Liang, J.Y.**
+  Scientific Reports, 2024. [Paper](https://www.nature.com/articles/s41598-024-58867-1)
+- Big Data Analytics for Marketing Strategy
+  **Liang, J.Y.**, Jiao, Y.H., Chung, S.Y., Lee, C.K.M
+  DesForm, 2023. [Paper](https://research.polyu.edu.hk/en/publications/big-data-analytics-for-marketing-strategy)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+# Experiences
+- Senior Associate, AI Product Operations in Alibaba International Digital Commerce Group, 2024 - Present
+- Research Associate in Laboratory for Artificial Intelligence in Design (AiDLab), The Hong Kong Polytechnic University, 2023 - 2024
+- Research Assistant (Part-time) in Cyber-Physical Systems Laboratory, The Hong Kong Polytechnic University, 2022 - 2023
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+# Honors & Awards
+- *2021.10* Guangxi Alumni Youth Science and Technology Scholarship (Top 10%)
+- *2021.07* The 2<sup>nd</sup> Award, The 7<sup>th</sup> International “Internet +” College Innovation and Entrepreneurship Competition
+- *2021.05* The 2<sup>nd</sup> Award, The 5<sup>th</sup> Intelligent Transportation Innovation and Entrepreneurship Competition
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Patents
+- Designing Project of Oil Spill Collection Device, *CN215252726U*
+- An Energy-efficient Truck Platoon Formation Method (Pending)
