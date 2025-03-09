@@ -8,7 +8,7 @@ My research interests lie in **Multimedia Content Generation**, particularly in 
 - B.Eng. in Transportation (Excellent Engineer Class), Chongqing Jiaotong University, 2018-2022
 
 # Publications 
-( $^{*}$equal contribution $^{*}$corresponding author / project lead )
+( * equal contribution, # corresponding author/project lead )
 - **Generating TRIZ-Inspired Guidelines for Eco-Design using Generative Artificial Intelligence**  
   Lee, C.K.M.<sup>*</sup>, **Liang, J.Y.**, Yung, K.L., Keung, K.L.  
   *Advanced Engineering Informatics*, 2024.  
